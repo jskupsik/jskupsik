@@ -1,6 +1,6 @@
 Hello, I'm Jakub Kupsik. Welcome to my github portfolio.
 
-I am a software developer looking for work (Los Angeles, CA or REMOTE), with experience primarily in Java, Kotlin, and Javascript!
+I am a software developer currently working at XH (Extremely Heavy), with experience primarily in Java, Kotlin, and Javascript!
 
 Here you can find code/demos of my favorite projects:
 
